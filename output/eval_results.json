@@ -1,0 +1,8 @@
+
+{"test_loss BT": 0.10644423961639404, "test_accuracy": 0.9779559118236473, "test_runtime": 23.8102, "test_samples_per_second": 20.957, "test_steps_per_second": 0.168}
+{"test_loss EDA1": 0.16975843906402588, "test_accuracy": 0.97, "test_runtime": 23.9933, "test_samples_per_second": 20.839, "test_steps_per_second": 0.167}
+{"test_loss No Augmention": 0.14609017968177795, "test_accuracy": 0.972, "test_runtime": 19.6833, "test_samples_per_second": 25.402, "test_steps_per_second": 0.203}
+{"test_loss EDA2": 0.1965590864419937, "test_accuracy": 0.97, "test_runtime": 21.2374, "test_samples_per_second": 23.543, "test_steps_per_second": 0.188}
+{"test_loss EDA8": 0.22404465079307556, "test_accuracy": 0.9619238476953907, "test_runtime": 23.9267, "test_samples_per_second": 20.855, "test_steps_per_second": 0.167}
+{"test_loss BT+EDA1": 0.19862249493598938, "test_accuracy": 0.974, "test_runtime": 19.8892, "test_samples_per_second": 25.139, "test_steps_per_second": 0.201}
+{"test_loss EDA4": 0.21462725222110748, "test_accuracy": 0.966, "test_runtime": 21.4548, "test_samples_per_second": 23.305, "test_steps_per_second": 0.186}
